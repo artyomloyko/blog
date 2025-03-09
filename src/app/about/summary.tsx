@@ -2,9 +2,9 @@ export default function Summary() {
   return (
     <div className="flex flex-col gap-6 mb-12">
       <p className="text-sm font-normal md:text-base">
-        I&apos;m a Software Developer with 6+ years of experience specializing in building
-        intuitive, user friendly and high-performance web applications. Expert in React ecosystem
-        and modern JavaScript, with a strong focus on creating exceptional user experiences.
+        I&apos;m a Software Developer specializing in building intuitive, user friendly and
+        high-performance web applications. Expert in React ecosystem and modern JavaScript, with a
+        strong focus on creating exceptional user experiences.
       </p>
       <p className="text-sm font-normal md:text-base">
         I have proven track record of delivering complex projects using React, Next.js and
